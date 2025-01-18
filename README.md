@@ -20,3 +20,4 @@ Group activity to familiarize with git
 
 - Harris
 - YL
+- YL 2
