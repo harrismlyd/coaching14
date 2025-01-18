@@ -20,5 +20,5 @@ Group activity to familiarize with git
 
 - Harris
 - YL
-- YL 2
+- YL 2 YL 3
 - Daniel
