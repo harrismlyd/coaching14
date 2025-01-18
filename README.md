@@ -1,5 +1,3 @@
-# coaching14
-
 # Overview
 
 Group activity to familiarize with git
@@ -20,4 +18,5 @@ Group activity to familiarize with git
 
 # Code Contributors
 
-YL
+- Harris
+- YL
